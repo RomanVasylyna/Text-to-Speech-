@@ -1,0 +1,27 @@
+body{
+margin: 0;
+padding: 0;
+/*background: rgb(28, 28, 28);*/
+background: black;
+/*background-image: url('..//sound_wave.gif');*/
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.fa-comments-o{
+color: #fff;
+}
+
+.typeSpeak{
+color: #fff;
+font-weight: bold;
+padding: 10px;
+}
+
+.typeSpeak span{
+color: rgb(49, 1, 255);
+}
+
+textarea{
+border-radius: 5px;
+}
